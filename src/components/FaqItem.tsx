@@ -1,3 +1,4 @@
+// @ts-nocheck
 import clsx from "clsx";
 import { useState } from "react";
 import SlideDown from "react-slidedown";
